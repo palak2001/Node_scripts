@@ -1,0 +1,30 @@
+{
+  "name": "notes",
+  "version": "6.9.2",
+  "description": "learn node",
+  "main": "app.js",
+  "scripts": {
+    "test": "{"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palak2001/Node_scripts.git"
+  },
+  "keywords": [
+    "go"
+  ],
+  "author": "Palak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palak2001/Node_scripts/issues"
+  },
+  "homepage": "https://github.com/palak2001/Node_scripts#readme",
+  "dependencies": {
+    "mongoose": "^5.6.4",
+    "underscore": "^1.9.1",
+    "validator": "^11.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
