@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/palak2001/Node_scripts#readme",
   "dependencies": {
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "underscore": "^1.9.1",
     "validator": "^11.1.0"
   },
